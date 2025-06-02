@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/neuro-hive/static/css/main.7373745b.css",
-    "main.js": "/neuro-hive/static/js/main.aa11146b.js",
+    "main.css": "/neuro-hive/static/css/main.038321ed.css",
+    "main.js": "/neuro-hive/static/js/main.67ca3327.js",
     "static/media/intro-bg.png": "/neuro-hive/static/media/intro-bg.7e3bd5ad8755d51d18da.png",
     "static/media/strategyBg.png": "/neuro-hive/static/media/strategyBg.c9fbb39bfa426933c2cb.png",
     "static/media/automat4bg.png": "/neuro-hive/static/media/automat4bg.d3f36035df79f8c265bc.png",
@@ -13,11 +13,11 @@
     "static/media/automat2bg.png": "/neuro-hive/static/media/automat2bg.36223d4385b773ec6c98.png",
     "static/media/automat6bg.png": "/neuro-hive/static/media/automat6bg.f71353b4b8adea38f948.png",
     "index.html": "/neuro-hive/index.html",
-    "main.7373745b.css.map": "/neuro-hive/static/css/main.7373745b.css.map",
-    "main.aa11146b.js.map": "/neuro-hive/static/js/main.aa11146b.js.map"
+    "main.038321ed.css.map": "/neuro-hive/static/css/main.038321ed.css.map",
+    "main.67ca3327.js.map": "/neuro-hive/static/js/main.67ca3327.js.map"
   },
   "entrypoints": [
-    "static/css/main.7373745b.css",
-    "static/js/main.aa11146b.js"
+    "static/css/main.038321ed.css",
+    "static/js/main.67ca3327.js"
   ]
 }
